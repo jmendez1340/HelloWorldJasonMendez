@@ -80,7 +80,6 @@
 				966C54581E3E824200B7F80E /* Hello World */,
 				966C546D1E3E824200B7F80E /* Hello WorldTests */,
 				966C54781E3E824300B7F80E /* Hello WorldUITests */,
-				966C54571E3E824200B7F80E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -92,6 +91,7 @@
 				966C54751E3E824300B7F80E /* Hello WorldUITests.xctest */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		966C54581E3E824200B7F80E /* Hello World */ = {
@@ -110,6 +110,7 @@
 		966C546D1E3E824200B7F80E /* Hello WorldTests */ = {
 			isa = PBXGroup;
 			children = (
+				966C54571E3E824200B7F80E /* Products */,
 				966C546E1E3E824200B7F80E /* Hello_WorldTests.swift */,
 				966C54701E3E824200B7F80E /* Info.plist */,
 			);
